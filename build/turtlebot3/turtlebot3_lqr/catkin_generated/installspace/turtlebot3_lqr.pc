@@ -1,0 +1,8 @@
+prefix=/home/adam/Desktop/catkin_ws/install
+
+Name: turtlebot3_lqr
+Description: Description of turtlebot3_lqr
+Version: 1.2.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy geometry_msgs
